@@ -1,35 +1,83 @@
 # Hi, I'm Muskan Zehra 👋
 
-🎓 Final-year Software Engineering Student  
-💻 Full Stack Developer | ASP.NET Core | React.js | TypeScript  
-🚀 Passionate about building web applications, AI projects, and real-time systems.
+🎓 Software Engineering Graduate
+🤖 Aspiring AI Engineer | Machine Learning | Computer Vision | Generative AI
+🚀 Passionate about building intelligent applications, AI-powered systems, and real-world machine learning solutions.
 
-## Tech Stack
-- ASP.NET Core
-- React.js
-- TypeScript
-- SQL Server
-- Entity Framework Core
-- SignalR
-- Python
-- Git & GitHub
+## AI & Development Skills
+
+* Python
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Generative AI
+* Natural Language Processing
+* YOLOv8
+* OpenCV
+* Grad-CAM and Explainable AI
+* FastAPI
+* React.js
+* TypeScript
+* SQL and SQLite
+* Git and GitHub
 
 ## Featured Projects
-### ZenTask
-Real-time task management system built with ASP.NET Core, React, TypeScript, and SignalR.
 
 ### Skintelli
-AI-powered skin analysis project using image processing and machine learning.
+
+AI-powered skin disease classification system developed using YOLOv8, computer vision, and Grad-CAM explainable AI.
+
+* Classifies multiple skin disease categories
+* Provides confidence scores and top predictions
+* Generates Grad-CAM heatmaps
+* Includes React frontend and FastAPI backend
+* Stores prediction history using SQLite
+
+### AptlyAI Chatbot
+
+AI-powered chatbot and appointment-booking platform built using React, FastAPI, Python, and AI APIs.
+
+* AI chatbot integration
+* Appointment scheduling
+* Lead capture and management
+* Email confirmation
+* Google Calendar integration
+* Admin dashboard
+
+### ZenTask
+
+Real-time task management application built using ASP.NET Core, React, TypeScript, and SignalR.
+
+* Real-time task updates
+* User authentication
+* Task tracking and management
+* Responsive user interface
 
 ### Portfolio
-Personal portfolio website showcasing my skills, projects, and experience.
+
+Personal portfolio website showcasing my AI projects, technical skills, internships, and software development experience.
+
+## Currently Learning
+
+* Large Language Models
+* Retrieval-Augmented Generation
+* AI Agents
+* Prompt Engineering
+* Model Deployment
+* MLOps
+* Advanced Deep Learning
 
 ## Currently Looking For
-- Software Engineering Internships
-- Junior .NET Developer Roles
-- React Developer Roles
-- Freelance Projects
+
+* AI Engineer Roles
+* Junior Machine Learning Engineer Roles
+* Computer Vision Engineer Roles
+* Generative AI Internships
+* Python and FastAPI Developer Roles
+* AI Freelance Projects
 
 ## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/muskanzehra12
-- Email: muskanaleem14@gmail.com
+
+* LinkedIn: https://www.linkedin.com/in/muskanzehra12
+* GitHub: https://github.com/Muskan-zehra12
+* Email: [muskanaleem14@gmail.com](mailto:muskanaleem14@gmail.com)
