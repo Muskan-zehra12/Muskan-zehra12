@@ -25,12 +25,12 @@
 
 ### Skintelli
 
-AI-powered skin disease classification system developed using YOLOv8, computer vision, and Grad-CAM explainable AI.
+AI-powered skin disease classification system developed using YOLOv8, computer vision, and Grad-CAM Explainable AI.
 
 * Classifies multiple skin disease categories
 * Provides confidence scores and top predictions
 * Generates Grad-CAM heatmaps
-* Includes React frontend and FastAPI backend
+* Includes a React frontend and FastAPI backend
 * Stores prediction history using SQLite
 
 ### AptlyAI Chatbot
@@ -43,6 +43,18 @@ AI-powered chatbot and appointment-booking platform built using React, FastAPI, 
 * Email confirmation
 * Google Calendar integration
 * Admin dashboard
+
+### Facial Emotion Detection
+
+AI-powered facial emotion recognition system that uses computer vision and deep learning to identify human emotions from facial expressions.
+
+* Detects faces from images and camera input
+* Classifies emotions such as happy, sad, angry, surprised, neutral, and fearful
+* Uses Python, OpenCV, and deep learning
+* Supports real-time emotion detection
+* Displays predicted emotion with a confidence score
+
+**GitHub:** https://github.com/Muskan-zehra12
 
 ### ZenTask
 
