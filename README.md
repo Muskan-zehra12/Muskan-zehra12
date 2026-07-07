@@ -54,7 +54,6 @@ AI-powered facial emotion recognition system that uses computer vision and deep 
 * Supports real-time emotion detection
 * Displays predicted emotion with a confidence score
 
-**GitHub:** https://github.com/Muskan-zehra12
 
 ### ZenTask
 
